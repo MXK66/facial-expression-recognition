@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icons/摄像头 (1).png</file>
+    <file>icons/视频_填充.png</file>
+    <file>icons/图片_填充.png</file>
+    <file>icons/文件夹.png</file>
+    <file>icons/系统升级.png</file>
+    <file>icons/右.png</file>
+    <file>icons/左.png</file>
+    <file>icons/pai.png</file>
+    <file>icons/background1.png</file>
+    <file>icons/background2.png</file>
+    <file>icons/recovery.png</file>
+    <file>icons/folder_web.png</file>
+    <file>icons/g1.png</file>
+    <file>icons/ini.png</file>
+    <file>icons/slice.png</file>
+    <file>icons/scan.gif</file>
+    <file>icons/net_speed.png</file>
+    <file>icons/result.png</file>
+  </qresource>
+</RCC>
